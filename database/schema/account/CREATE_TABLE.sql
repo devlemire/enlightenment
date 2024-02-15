@@ -1,0 +1,1 @@
+CREATE TABLE account (account_id BIGSERIAL PRIMARY KEY, email TEXT, password TEXT);
